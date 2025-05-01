@@ -6,8 +6,7 @@ SwiftAid is a smart ambulance tracking system that shows real-time location, fin
 2. Optimized Routing with GraphHopper
 3. Nearest Hospital Detection
 4. SMS & Email Notifications (Twilio, Firebase)
-5. IoT-based Smart Traffic Signals
-6. Responsive UI (React.js, Tailwind CSS)
+5. Responsive UI (React.js, Tailwind CSS)
 
 ### Setup and Installation
 
